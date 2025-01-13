@@ -89,7 +89,7 @@ const games = ` [
     "img": "./assets/kingdom_death.png"
   }
 ]
-`
+`// 11 Games, 11 runs of GAMES_JSON
 const template = `
 {
 "name": "",
