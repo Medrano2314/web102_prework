@@ -2,7 +2,7 @@
 
 Submitted by: Christopher Lee Medrano
 
-Displayo is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Displayaroo is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: 3 hours spent in total
 
